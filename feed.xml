@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">FBC IT Helpcenter</title>
+<subtitle type="text">Helpful info for FBC Folks!</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2013-09-30T18:36:55-04:00</updated>
+<id>/</id>
+<author>
+  <name>Joel Wattacheril</name>
+  <uri>/</uri>
+  <email>helpdesk@fbcsomerset.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Resetting Password]]></title>
+  <link rel="alternate" type="text/html" href="/resetting-password" />
+  <id>/resetting-password</id>
+  <published>2013-09-24T00:00:00-04:00</published>
+  <updated>2013-09-24T00:00:00-04:00</updated>
+  <author>
+    <name>Joel Wattacheril</name>
+    <uri></uri>
+    <email>helpdesk@fbcsomerset.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;changing-windows-logon-password&quot;&gt;Changing Windows Logon Password&lt;/h3&gt;
+&lt;p&gt;These steps will help change your password for security purposes. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h6 id=&quot;warning-you-must-know-your-password-for-these-procedures-if-you-have-forgotten-your-password-then-you-will-have-to-create-a-tickethttphelpcenterfbcsomersetcomhelpdesk&quot;&gt;&lt;strong&gt;Warning:&lt;/strong&gt; You must know your password for these procedures. If you have forgotten your password, then you will have to create a &lt;a href=&quot;http://helpcenter.fbcsomerset.com/helpdesk&quot;&gt;ticket&lt;/a&gt;.&lt;/h6&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/resetting-password&quot;&gt;Resetting Password&lt;/a&gt; was originally published by Joel Wattacheril at &lt;a href=&quot;&quot;&gt;FBC IT Helpcenter&lt;/a&gt; on September 24, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Gmail Vacation Auto-responder]]></title>
+  <link rel="alternate" type="text/html" href="/articles/vacation-autoresponder" />
+  <id>/articles/vacation-autoresponder</id>
+  <published>2013-09-16T00:00:00-04:00</published>
+  <updated>2013-09-16T00:00:00-04:00</updated>
+  <author>
+    <name>Joel Wattacheril</name>
+    <uri></uri>
+    <email>helpdesk@fbcsomerset.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This post shows you how to setup your vacation auto-responder in Gmail.  The following movie will show you step by step how to setup your auto-responder in Gmail.&lt;/p&gt;
+
+&lt;h3 id=&quot;watch-the-youtube-video-below-on-steps-to-activate-your-auto-responder&quot;&gt;Watch the Youtube video below on steps to activate your Auto-responder&lt;/h3&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;420&quot; src=&quot;http://www.youtube.com/embed/4Z6hUPMVlsM?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/vacation-autoresponder&quot;&gt;Gmail Vacation Auto-responder&lt;/a&gt; was originally published by Joel Wattacheril at &lt;a href=&quot;&quot;&gt;FBC IT Helpcenter&lt;/a&gt; on September 16, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>
